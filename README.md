@@ -1,7 +1,7 @@
 # Statistic Analysis for Massive and High Dimension Data
-## DSTI - Lecture given by Prof. Charles Bouveyron
+### DSTI - Lecture given by Prof. Charles Bouveyron
 
-### [Descriptiv statistics and Evaluation Process](/DescriptivStatistics.pdf)
+### [Descriptive statistics and Evaluation Process](/DescriptivStatistics.pdf)
 ### [Supervised Learning](/SupervisedLearning.pdf)
 * Classification with KNN 
 * Classification with LDA
